@@ -30,4 +30,4 @@ https://github.com/markkoos
 If you have any questions please send me an email: 
 markusimercado@gmail.com
 
-[Demonstration Video](https://www.youtube.com/watch?v=MQcTf7pzpdw)
+[Demonstration Video: Click on this text to watch](https://www.youtube.com/watch?v=MQcTf7pzpdw)
